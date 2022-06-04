@@ -29,21 +29,21 @@ main {
 }
 
 .step-image1 {
-  background-image: url(https://github.com/sibagaku/HTML-CSS-1-10-Kadai/blob/bb6228c7ac141a48d37dff789f1dce8871b12acc/img/flow01.png?raw=true);
+  background-image: url(img/flow01.png);
   background-size: cover;
   background-position: bottom;
   height: 150px;
 }
 
 .step-image2 {
-  background-image: url(https://github.com/sibagaku/HTML-CSS-1-10-Kadai/blob/main/img/flow02.png?raw=true);
+  background-image: url(img/flow02.png);
   background-size: cover;
   background-position: bottom;
   height: 150px;
 }
 
 .step-image3 {
-  background-image: url(https://github.com/sibagaku/HTML-CSS-1-10-Kadai/blob/main/img/flow03.png?raw=true);
+  background-image: url(img/flow03.png);
   background-size: cover;
   background-position: bottom;
   height: 150px;
